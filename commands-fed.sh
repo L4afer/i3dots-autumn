@@ -19,7 +19,6 @@ cp -r ~/Downloads/i3dots-autumn/.config/neofetch ~/.config
 cp -r ~/Downloads/i3dots-autumn/.config/kitty ~/.config/
 cp -r ~/Downloads/i3dots-autumn/.config/kitty/.zshrc ~/
 cp -r ~/Downloads/i3dots-autumn/.config/i3 ~/.config/
-betterlockscreen -u ~/.config/i3/bench768p.png
 sudo chmod +x ~/.config/i3/scrot.sh
 sudo chmod +X ~/.config/i3/scrot1.sh
 sudo chmod +x ~/.config/i3/kblayout.sh

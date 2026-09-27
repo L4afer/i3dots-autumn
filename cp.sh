@@ -10,4 +10,3 @@ rm -rf ~/.config/i3
 cp -r ~/Downloads/i3dots-autumn/.config/i3 ~/.config/
 i3 reload
 ~/.config/i3/polr.sh
-betterlockscreen -u ~/.config/i3/bench768p.png
